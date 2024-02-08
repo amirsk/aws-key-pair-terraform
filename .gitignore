@@ -1,3 +1,6 @@
+# IntelliJ Idea
+.idea
+
 # Local .terraform directories
 **/.terraform/*
 
